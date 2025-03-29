@@ -49,7 +49,7 @@ Resume-Builder/
 ## 🚀 Installation & Setup
 ### **1️⃣ Clone the repository**
 ```sh
-git clone https://github.com/your-username/resume-builder.git
+git clone https://github.com/Shrinidhi444/resume-builder.git
 cd resume-builder
 ```
 
